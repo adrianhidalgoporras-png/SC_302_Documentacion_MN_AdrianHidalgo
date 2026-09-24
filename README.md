@@ -1,2 +1,24 @@
-# SC_302_Documentacion_MN_AdrianHidalgo
+# SC\_302\_Documentacion\_MN\_AdrianHidalgo
+
 Laboratorio Adrian Hidalgo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Esta es mi primera práctica con GitHub.
+
